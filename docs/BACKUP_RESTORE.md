@@ -1,0 +1,1 @@
+# Backup and Restore\n\nRequired: database backup, object-storage data/metadata, integrity information, retention policy, restore procedure.\n\nA backup is not considered recoverable until a restore drill succeeds.\n\nDrill: backup → state changes → destroy test database → restore → reconciliation → objects restore → isolation check → audit integrity → consistency check.\n

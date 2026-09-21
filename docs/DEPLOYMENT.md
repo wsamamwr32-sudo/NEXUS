@@ -1,0 +1,1 @@
+# Deployment\n\nProfiles: local, test, staging, production.\n\nSelf-hosted baseline: container build, compose profile, environment example, migration commands, health checks, backup/restore commands.\n\nKubernetes is an optional production scale profile. Deployment is gated by tests, security checks, artifact metadata, release notes and rollback procedure.\n

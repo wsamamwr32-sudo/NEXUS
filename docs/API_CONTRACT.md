@@ -1,0 +1,1 @@
+# API Contract\n\nThe HTTP API is authoritative and machine-validatable.\n\nConventions: explicit versioning; stable error codes; idempotency keys; request/correlation IDs; bounded pagination; tenant/resource authorization; schema validation.\n\nReference standards: OpenAPI 3.2.0; JSON Schema 2020-12. Re-check at implementation time.\n

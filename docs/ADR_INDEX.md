@@ -1,0 +1,1 @@
+# ADR Index\n\nADR-0001 — Modular Monolith First\nADR-0002 — Multi-Tenant Defense in Depth\nADR-0003 — Server-Authoritative State\nADR-0004 — AI Least Privilege and Approval Boundary\n\nEach ADR includes Problem, Context, Evidence, Alternatives, Decision, Why, Trade-offs, Consequences, Security implications, migration/rollback path, Evaluation.\n

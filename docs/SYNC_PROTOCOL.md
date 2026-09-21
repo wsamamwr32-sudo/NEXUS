@@ -1,0 +1,1 @@
+# Sync Protocol\n\nAt-least-once transport with idempotent writes.\n\nRecords: SyncOperation, SyncCursor, SyncVersion, Conflict, RetryState.\n\nFlow: offline queue → upload → acknowledgement → deduplicate → resolve conflict → reconcile.\n\nTests: duplicate, out-of-order, old/new client, two-device edit, delete/update race, network flapping, clock drift.\n

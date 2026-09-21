@@ -1,0 +1,1 @@
+# Observability\n\nUse OpenTelemetry-compatible traces, metrics and logs with semantic conventions and correlation IDs.\n\nRequired questions: slow request/query; affected tenant; stuck workflow; failed AI tool; sync conflict; integration timeout.\n\nHealth: startup = initialization; readiness = traffic/dependencies; liveness = process recovery signal.\n

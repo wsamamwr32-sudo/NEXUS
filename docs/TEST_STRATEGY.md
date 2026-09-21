@@ -1,0 +1,1 @@
+# Test Strategy\n\nPyramid: many unit tests → integration → contract → smaller strong E2E suite.\n\nRequired suites: security; E2E; performance smoke; property-based invariants; fuzzing; chaos; backup/restore.\n\nGolden scenarios cover end-to-end product flow, workflow crash/retry, cross-tenant isolation, prompt injection/tool safety, and disaster recovery.\n
