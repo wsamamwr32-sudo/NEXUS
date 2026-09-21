@@ -1,2 +1,1 @@
-# NEXUS
-NEXUS — AI-Native Organization Operating System. Production-grade full-stack/mobile/AI/offline/realtime/security/DevOps challenge.
+# NEXUS\n\nNEXUS is an AI-native organization operating system designed as a long-lived, secure, multi-tenant, offline-capable and observable product.\n\n## Current gate\nPhase 0/1 — architecture and repository foundation.\n\n## Lifecycle\nUNDERSTAND → REQUIREMENTS → CAPABILITY READINESS → RESEARCH → ARCHITECTURE → THREAT MODEL → DATA MODEL → DOMAIN MODEL → UX SYSTEM → TEST STRATEGY → IMPLEMENTATION PLAN → IMPLEMENT → VERIFY → RED TEAM → HARDEN → RELEASE\n
