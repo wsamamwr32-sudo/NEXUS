@@ -1,0 +1,1 @@
+# NEXUS Domain\n\nPlatform-independent domain semantics. No UI framework, database driver, AI provider or cloud SDK imports are permitted here.\n

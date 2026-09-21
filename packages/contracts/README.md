@@ -1,0 +1,1 @@
+# NEXUS Contracts\n\nMachine-validatable API/event/schema contracts. OpenAPI and JSON Schema artifacts belong here or under the documented contract boundary.\n

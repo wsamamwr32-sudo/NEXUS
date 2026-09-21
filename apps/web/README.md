@@ -1,0 +1,1 @@
+# NEXUS Web\n\nResponsive web client boundary. Phase 1 establishes the platform boundary; implementation is added as vertical slices after foundation gate.\n

@@ -1,0 +1,1 @@
+# NEXUS API\n\nApplication/gateway boundary. Every object access is tenant-aware and server-authorized. Side effects use stable error semantics and idempotency where required.\n

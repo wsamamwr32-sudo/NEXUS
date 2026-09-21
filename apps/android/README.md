@@ -1,0 +1,1 @@
+# NEXUS Android\n\nNative Kotlin/Jetpack Compose client boundary. Not a WebView. Phase 1 establishes the platform boundary; implementation follows the first product vertical slice.\n
